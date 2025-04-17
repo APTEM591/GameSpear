@@ -49,11 +49,6 @@ button {
     box-shadow: 0 8px 8px rgba(0, 0, 0, 0.2);
 }
 
-a {
-    text-decoration: none;
-    color: #808080;
-}
-
 .Links {
     color: #808080;
     font-style: italic;
